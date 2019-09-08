@@ -8,6 +8,7 @@ aiohttp = "*"
 aiofiles = "*"
 aiodns = "*"
 jupyterlab = "*"
+requests = "*"
 
 [dev-packages]
 
